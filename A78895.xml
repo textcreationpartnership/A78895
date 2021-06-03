@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties message to both Houses of Parliament of the eleventh of Iuly. 1642 Together with His Majesties proclamation declaring His Majesties purpose to go in his royall person to Hull: and the true occasion and end thereof.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78895</idno><idno type="EEBO-CITATION">99900122</idno>
+  <idno type="VID">135435</idno>
+  <idno type="EEBO-PROQUEST">2240872436</idno>
+  
+            <idno type="STC">Wing C2456</idno>
+            <idno type="STC">ESTC R210746</idno>
+            <idno type="PROQUEST">99900122</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99900122e"/>
+            <note>(EEBO-TCP ; phase 2, no. A78895)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135435)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2527:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties message to both Houses of Parliament of the eleventh of Iuly. 1642 Together with His Majesties proclamation declaring His Majesties purpose to go in his royall person to Hull: and the true occasion and end thereof.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I). Proclamations. 1642-07-08.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Robert Barker, printer to the Kings most Excellent Majestie: and by the assignes of John Bill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The king's proclamation is dated 8 July 1642.</note>
+                  <note>In this edition there is one line of four small ornaments on title page, and line 1 of text ends "this our".</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135435:1"/>
+            <p>His Majesties MESSAGE TO Both Houses of PARLIAMENT of the eleventh of <hi>Iuly.</hi> 1642.</p>
+            <p>TOGETHER With His MAJESTIES Proclamation declaring His MAJESTIES purpose to go in His Royall Person to HULL: and the true occasion and end thereof.</p>
+            <p>LONDON: Printed by ROBERT BARKER, Printer to the Kings most Excellent Majestie: And by the Assignes of JOHN BILL. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:135435:2"/>
+            <head>
+               <figure>
+                  <figDesc>arms of Charles I</figDesc>
+               </figure>
+            </head>
+            <pb n="1" facs="tcp:135435:2"/>
+            <head>
+               <hi>His Majesties Message</hi> To both Houses of Parliament of the eleventh of <hi>July,</hi> 1642.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Y Our former Declarations and this Our Proclamation (which We herewith send you) you and all Our good Subjects may see the just grounds of Our present Journey towards Our Town of HULL. Before We shall use force to reduce that place to its due Obedience, We have thought fit once more to re<g ref="char:EOLhyphen"/>quire you, that it may be forthwith delivered up to Us (the businesse being of that nature that it can admit no delay) Wherein if you shall conform your selves, We shall then be willing to admit such addresses from you, and return such Propositions to you, as may be proper to settle the Peace of this Kingdom, and compose the present Di<g ref="char:EOLhyphen"/>stractions. Do your duty herein, and be assured from Us in the word of a King, that nothing shall be wanting on Our part that may prevent the Calamities which threaten this Nation, and may render Our People truely happy. If this Our Gracious invitation shall be declined, God and all good men judge betwixt Us. We shall expect to receive sa<g ref="char:EOLhyphen"/>tisfaction herein by your Answer to be presented to Us at <hi>Beverley</hi> upon Friday next, being the fifteenth day of this present July.</p>
+         </div>
+         <div type="proclamation">
+            <pb n="2" facs="tcp:135435:3"/>
+            <head>¶ By the King. ¶ A Proclamation declaring Our purpose to go in Our Royall Person to HULL; And the true occasion and end thereof.</head>
+            <p>
+               <seg rend="decorInit">W</seg>E having long complained of the high affront done unto Vs in Our own Per<g ref="char:EOLhyphen"/>son by Sir <hi>John Hotham,</hi> when We went to Our town of <hi>Hull</hi> to view Our Magazine and Arms, Our own pro<g ref="char:EOLhyphen"/>per goods (if We shall be allowed to call any thing Our own) which then were there, and since by, and under colour of Orders made by both Our Houses of Parliament, not only without but against Our consent, violently taken and carried from thence, and for that the Town it self, being the principall Fort and Port of these Northerne parts of this Kingdom, in a Warlike manner, with many hundreds of Souldi<g ref="char:EOLhyphen"/>ers hath been kept &amp; maintained against Vs as a Garri<g ref="char:EOLhyphen"/>son and Town of War; as against an Enemie; And that by the Practice of a Malignant Party, which hath too great an influence upon Our two Houses of Parlia<g ref="char:EOLhyphen"/>ment, in stead of repairing Our Honour for this In<g ref="char:EOLhyphen"/>dignitie, severall Orders and Votes of the Major part, then present, have been made to justifie all this as Legall; which Orders and Votes would have Vs, and others, to beleeve, upon the many Protestations in Print, That there hath been nothing done therein (as
+<pb n="3" facs="tcp:135435:3"/> in many other things of that nature) but for the safety of Our Person, the Honour of Our Crown, and the good of the Kingdom; as if words directly contrary <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o these Actions of Hostility could satisfie Vs, or any rea<g ref="char:EOLhyphen"/>sonable man, not blinded with self opinion, or abused and misled by vain and false Surmises or groundlesse Iealousies; We have now looked somewhat more nar<g ref="char:EOLhyphen"/>rowly into the manner of Sir <hi>John Hothams</hi> carriage in this his imployment, and did finde by the certain Re<g ref="char:EOLhyphen"/>lation of others, That for the Fortifying of the Place against Vs, his Liege Lord, he hath used the help of Art in making out-works to defend the Town; he hath pur<g ref="char:EOLhyphen"/>posely cut the Banks, and let in the waters to drown the Land-passages, and to make the Town inaccessible by that way; he hath set forth a Pinnace (amongst other good Services) to intercept a Pinnace of Ours employ<g ref="char:EOLhyphen"/>ed for carrying of Letters, Messages and Passengers between Vs and Our Deerest Consort the Queen; he permitteth his Souldiers to issue out of the Town, and forrage upon the Countrey; he hath not onely Vnlaw<g ref="char:EOLhyphen"/>fully but Tyrannically cast out divers Inhabitants of the Town from their dwellings, because he could not Confide in them; he hath disarmed all the Towns-men, that he might put the sole power in the Souldiery un<g ref="char:EOLhyphen"/>der his command; he doth compell some others of the Inhabitants, desirous to depart the Town with their Families, to abide &amp; continue there against their wills; a by drowning of the lands about the Town in manner as aforesaid, he hath destroyed the Pastures, Medows and Corn-lands within that compasse, containing some thousands of Acres of very fruitfull grounds, amount<g ref="char:EOLhyphen"/>ing to a great value, to the great impoverishing of the owners and occupiers thereof; And he hath, for divers
+<pb n="4" facs="tcp:135435:4"/> moneths continued in pay many hundreds of Souldi<g ref="char:EOLhyphen"/>ers; and endeavoureth, under pretence of Authority from the two Houses of Parliament, to increase their num<g ref="char:EOLhyphen"/>ber from the Countie of <hi>Lincoln</hi> adjoyning, and from other places; and this at the publique charge of the Kingdom, and out of those monies provided for the re<g ref="char:EOLhyphen"/>lief of the miseries of <hi>Ireland,</hi> and payment of the great debt to Our Kingdom of <hi>Scotland.</hi>
+            </p>
+            <p>Whereupon, We being very sensible of this extream dis<g ref="char:EOLhyphen"/>honour to Vs, That a Town of such importance, and so neer to the place of Our present Residence, should be thus fortified, kept and maintained against Vs; That the Port and Passage by Sea should be defended against Vs by Our own Ships, under the conduct of the Earl of <hi>War<g ref="char:EOLhyphen"/>wick,</hi> who being legally discharged by Vs of his employ<g ref="char:EOLhyphen"/>ment at Sea, by Our Revocation of the Commission formerly granted by Vs to the Earl of <hi>Northumber<g ref="char:EOLhyphen"/>land,</hi> and by Our command signified unto him under Our own hand, to deliver the command of Our Ships into the hands of another person named by Vs, hath, notwithstanding Our said Commands (to which the Earl of <hi>Northumberland</hi> paid a dutifull obedience) pre<g ref="char:EOLhyphen"/>sumed not onely to dispossesse Vs of Our said Navie, but to imploy it against Vs, and to take Prisoners such of Our Captains as expressed a loyalty to Vs according to their Oathes and the duty of Subjects; And that a Ship of Ours lately imployed for Our particular Ser<g ref="char:EOLhyphen"/>vice into <hi>Holland,</hi> and returning from thence with some of Our proper Goods, hath been chased by them as an Enemy, and inforced, for her safety, to put into a small Creek within six Miles of that Town, and there to run on ground, to the great hazard of Our said Vessell; and that both Our Ship and Goods there were yet remain<g ref="char:EOLhyphen"/>ing
+<pb n="5" facs="tcp:135435:4"/> in danger to be suprized by Our own Subjects, We took a Iourney on Wednesday the sixth of this Mo<g ref="char:EOLhyphen"/>neth from <hi>York</hi> towards the said Creek, to take a view of Our said Ship and Goods thus exposed to danger; We having just cause to fear that Sir <hi>John Hotham,</hi> and others of his Confederacy, would (for Our good, and the good of the Kingdom) make prize of these also; and by the opportunity of that Iourney, We Our Self are now fully informed of the certainty of those things, which We had before received but from the relation of others; and there received a lamentable Petition of Our Subjects of those parts, complaining of the un<g ref="char:EOLhyphen"/>heard of Insolence and Babarisme of Sir <hi>John Ho<g ref="char:EOLhyphen"/>tham,</hi> and desiring Our just and necessary Protection of them from those cruell Oppressions.</p>
+            <p>Vpon all which considerations, that We may at length, after this long patience, do that right to Our Honour, Our Crown and Royall Dignity, and to Our good Subjects in generall, and those of and neer to Our Town of <hi>Hull</hi> in particular, Which We had reason to have expected from Our two Houses of Parliament; but have failed of the fruit of Our long expectation, by the malice of some ill-affected spirits amongst them, who study nothing more then by false pretences to amuse and abuse Our good people; We have taken this Resolution, by Gods blessing, and the Assistance of Our good Sub<g ref="char:EOLhyphen"/>jects, to force Sir <hi>John Hotham</hi> &amp; all that shall take part with him in the unjust and treasonable Defence of the Town of <hi>Hull</hi> against Vs, to that obedience which is due by Subjects to their Leige Lord and Soveraign, and to resist the Assistance intended to Sir <hi>John Hotham</hi> from Our said County of <hi>Lincoln</hi> and other places adjoyning, if they shall attempt it. And to this purpose We will and
+<pb n="6" facs="tcp:135435:5"/> require all Our loving Subjects to yeeld their best As<g ref="char:EOLhyphen"/>sistance of what kinde soever, to so necessary a defence of Our Person, and just vindication of so great an injury offered unto Vs, to the dishonour of this Nation. And We do declare, That whosoever shall give Vs their cheerfull help at this time, and to this purpose, either with Men, Horse, Arms or Money, to be brought, sent or conveyed unto Vs, We shall look upon it as a Service never to be forgotten.</p>
+            <p>And this We publish to all Our Subjects, and to all the World, that they may truly understand the cleering of Our Intentions herein, as We shall do in all other things concerning Our Government; And that We do, and ever shall maintain those Resolutions We have pro<g ref="char:EOLhyphen"/>fessed so often, and so seriously by Our former Declara<g ref="char:EOLhyphen"/>tions, That We will continue and defend the true Prote<g ref="char:EOLhyphen"/>stant Religion as it is by Law established in the Church of <hi>England,</hi> The Laws of the Land, The Rights and just Liberties of Our Subjects, equally to and with Our own just Prerogative, and the true Priviledges of Par<g ref="char:EOLhyphen"/>liament, And never infringe any Act consented to by Vs this Parliament, And that We have not, nor ever had the least thought of making War upon Our two Houses of Parliament, as hath been slanderously and malici<g ref="char:EOLhyphen"/>ously published. And these things, not Our words one<g ref="char:EOLhyphen"/>ly, but all Our Actions shall make good. And in this Resolution and the just Observation thereof We shall both live and dye.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at <hi>Beverley</hi>
+                  </hi>
+                  <date>
+                     <hi>the eighth day of July, in the eighteenth yeer of Our Reign. 1642.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
